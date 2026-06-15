@@ -42,4 +42,3 @@ A simulated brute-force login attempt is analyzed to understand:
 
 ---
 
-## Repository Structure
